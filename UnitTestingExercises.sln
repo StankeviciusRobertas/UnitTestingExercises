@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingExercises", "UnitTestingExercises\UnitTestingExercises.csproj", "{DE9C8DB5-B0DE-4801-A07C-02B062121CDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestingExercises", "UnitTestingExercises\UnitTestingExercises.csproj", "{DE9C8DB5-B0DE-4801-A07C-02B062121CDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingExercises_unitTests", "UnitTestingExercises_unitTests\UnitTestingExercises_unitTests.csproj", "{19E231CF-A82B-4BB9-8DC4-AA32AA02F5F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestingExercises_unitTests", "UnitTestingExercises_unitTests\UnitTestingExercises_unitTests.csproj", "{19E231CF-A82B-4BB9-8DC4-AA32AA02F5F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unitTesting_uzduotys", "unitTesting_uzduotys\unitTesting_uzduotys.csproj", "{C4304D80-D101-4AD8-94CC-059FED34D525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitIF_Testing", "unitIF_Testing\unitIF_Testing.csproj", "{D41FC681-E726-448F-A199-2F42B857A737}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{19E231CF-A82B-4BB9-8DC4-AA32AA02F5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E231CF-A82B-4BB9-8DC4-AA32AA02F5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E231CF-A82B-4BB9-8DC4-AA32AA02F5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4304D80-D101-4AD8-94CC-059FED34D525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4304D80-D101-4AD8-94CC-059FED34D525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4304D80-D101-4AD8-94CC-059FED34D525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4304D80-D101-4AD8-94CC-059FED34D525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41FC681-E726-448F-A199-2F42B857A737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41FC681-E726-448F-A199-2F42B857A737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41FC681-E726-448F-A199-2F42B857A737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41FC681-E726-448F-A199-2F42B857A737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
